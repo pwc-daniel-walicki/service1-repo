@@ -14,6 +14,10 @@ management.endpoints.web.exposure.include: "*"
 
 config.value: service1 develop branch dev
 
+vault:
+  token: hvs.e7krvG5s8SzZLObOqemhJG0X
+  uri: http://127.0.0.1:8200
+  
 ---
 
 spring:
