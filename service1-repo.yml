@@ -1,4 +1,5 @@
 spring:
+  cloud.vault.kv.backend: s1
   config.activate.on-profile: dev
   datasource:
     username: dev-1
